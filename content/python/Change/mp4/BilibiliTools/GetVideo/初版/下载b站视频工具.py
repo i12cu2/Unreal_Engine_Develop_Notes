@@ -5,7 +5,7 @@ import json
 from urllib.parse import urlparse, parse_qs
 import argparse
 
-SAVE_PATH = r"C:\Users\chru\Desktop\1"  # 可以修改为任意路径
+SAVE_PATH = r"C:\Users\Admin\Desktop"  # 可以修改为任意路径
 
 class BilibiliVideoDownloader:
     def __init__(self, save_path="./downloads"):

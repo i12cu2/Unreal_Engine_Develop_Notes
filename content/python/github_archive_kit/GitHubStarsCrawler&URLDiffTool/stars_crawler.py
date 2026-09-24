@@ -5,7 +5,7 @@ import sys
 from datetime import datetime, timedelta
 
 # 配置
-USERNAME = "i12cu4"
+USERNAME = "i12cu2"
 OUTPUT_FILE = f"github_stars_{USERNAME}_all_api.txt"
 MAX_PAGES = 10
 MAX_RETRIES = 500  # 最大重试次数
